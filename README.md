@@ -3,9 +3,8 @@
 🔭 I’m currently working on:
   - PrisonCells (A minecraft plugin)
 
-I've just started learning how to code a Minecraft Plugin.
-
 I Love learning new languages.
+
 I can program in these languages:
   - HTML
   - CSS
@@ -14,6 +13,7 @@ I can program in these languages:
   - Python
   - C#
 🌱 I’m currently learning:
+  - How to make a minecraft plugin.
   - Data Science
   - Machine Learning
   
