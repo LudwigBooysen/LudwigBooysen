@@ -28,5 +28,7 @@
 <p>Add me as a friend on discord!</p>
 <p> --> ICY_Craft_YT#9243 </p>
 
+<!--
 <h3>My Github Website</h3>
 <a href="https://LudwigBooysen.github.io">Ludwig Booysen</a>
+-->
