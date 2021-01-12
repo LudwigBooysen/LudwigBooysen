@@ -8,6 +8,7 @@
   <li>Websites</li>
   <li>Games</li>
   <li>Game Addons</li>
+  <li>App Addons</li>
 </ul>
 
 <h1>Info</h1>
