@@ -2,7 +2,7 @@
 <h1>Ludwig Booysen</h1>
 
 <h1>Status</h1>
-<p>I am currently working on a minecraft plugin designed to make prison cells, check it out here <a href="https://github.com/LudwigBooysen/PrisonCells">PrisonCells</a></p>
+<p>I am currently working on a minecraft plugin designed to make prison cells, check it out here > <a href="https://github.com/LudwigBooysen/PrisonCells">PrisonCells</a></p>
 
 <p>I am intressted in making:</p>
 <ul>
