@@ -23,7 +23,7 @@
 </ul>
 <h3>Contact Info</h3>
 
-<p>Email me at: <a href = "mailto: ludwig.booysen@gmail.com">Ludwig.booysen@gmail.com</a> (I don't check it frequently)</p>
+<p>Email me at: <a href = "mailto: ludwig.booysen@gmail.com">Ludwig.booysen@gmail.com</a></p>
 
 <p>Add me as a friend on discord!</p>
 <p> --> ICY_Craft_YT#9243 </p>
