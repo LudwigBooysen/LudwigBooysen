@@ -1,5 +1,12 @@
 
-<h1>Ludwig Booysen</h1>
+# Ludwig Booysen
+
+
+
+I can program in a variety of programming languages, feel free to include me in as many as possible projects.
+I love to help someone work on a project with a unique and new idea, maybe even just my new pair of fresh eyes to the project can help you?
+
+Website: 
 
 <h1>Status</h1>
 
