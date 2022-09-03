@@ -27,6 +27,10 @@
 
 - ⚡ Fun fact **I learned coding since the age of 12**
 
+- 🎵 I also learned how to write and produce songs / beats (FL Studio 20🥭) (Feel free to check out my YT chanel 📹)
+
+- 📸 As a hobby I love to take qualtity (HD) photos of beutiful scenes and moments (Linked / showed on my Insta 📷 and website 📃)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ludwig booysen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ludwig booysen" height="30" width="40" /></a>
