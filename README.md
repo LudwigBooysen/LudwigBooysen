@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MC-ColoredBricks (Minecraft Datapack)](https://github.com/LudwigBooysen/MC-ColoredBricks)
 
-- 🌱 I’m currently learning **kotlin, ruby, js (extendtions) and AI development**
+- 🌱 I’m currently learning **kotlin, ruby, js (extensions) and AI development**
 
 - 👯 I’m looking to collaborate on [BetterDiscord (Discord Mods - Themes)](https://github.com/LudwigBooysen/BetterDiscord)
 
@@ -27,9 +27,9 @@
 
 - ⚡ Fun fact **I learned coding since the age of 12**
 
-- 🎵 I also learned how to write and produce songs / beats (FL Studio 20🥭) (Feel free to check out my YT chanel 📹)
+- 🎵 I also learned how to write and produce songs / beats (FL Studio 20🥭) (Feel free to check out my YT channel 📹)
 
-- 📸 As a hobby I love to take qualtity (HD) photos of beutiful scenes and moments (Linked / showed on my Insta 📷 and website 📃)
+- 📸 As a hobby I love to take quality (HD) photos of beutiful scenes and moments (Linked / showed on my Instagram 📷 and website 📃)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
