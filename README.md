@@ -5,9 +5,9 @@
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
 
-- 🔭 I’m currently working on [MC-ColoredBricks (Minecraft Datapack)](https://github.com/LudwigBooysen/MC-ColoredBricks)
+- 🔭 I’m currently working on YamiPR, my Minecraft server. (More updates to be expected)
 
-- 🌱 I’m currently learning **kotlin, ruby, js (extensions) and AI development**
+- 🌱 I’m currently learning **ruby, AI development, and Responsive Web Design**
 
 - 👯 I’m looking to collaborate on [BetterDiscord (Discord Mods - Themes)](https://github.com/LudwigBooysen/BetterDiscord)
 
@@ -21,7 +21,7 @@
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"></img>
 
-- 📫 How to reach me **ludwig.booysen@gmail.com**
+- 📫 How to reach me **ludwig.booysen@gmail.com** or on Discord **_prodicy** 
 
 - 📄 Know about my experiences [https://ludwigbooysen.github.io/about.html](https://ludwigbooysen.github.io/about.html)
 
