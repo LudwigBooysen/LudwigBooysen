@@ -5,6 +5,8 @@
 
 <img align="right" alt="coding" width="300" src="Images/CodingAtNight.png"></img>
 
+- 📚 I’m currently studying IT at <a href="https://www.belgiumcampus.ac.za/">**Belgium Campus iTversity**</a>
+
 - 🔭 I’m currently working on **a small IoT prototype** (More updates to be expected)
 
 - 🌱 I’m currently learning **AI development, Rust, Flask, React**
