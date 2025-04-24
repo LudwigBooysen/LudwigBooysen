@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ludwigbooysen.github.io/)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.png)](https://ludwigbooysen.github.io/)
 <h1 align="center">Hi 👋, I'm Ludwig Booysen</h1>
 <h3 align="center">A passionate frontend developer from South Africa (🇿🇦)</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ludwigbooysen" alt="ludwigbooysen" /></a> </p>
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
+<img align="right" alt="coding" width="300" src="Images/CodingAtNight.png"></img>
 
 - 🔭 I’m currently working on **YamiPR, my Minecraft server.** (More updates to be expected)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **html, js, css, minecraft coding, unity dev (C#), python (ethical hacking) or arduino (robotics coding)**
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"></img>
+<img align="right" alt="coding" width="300" src="Images/MobileDev.png"></img>
 
 - 📫 How to reach me **ludwig.booysen@gmail.com** or on Discord **_prodicy** 
 
