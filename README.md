@@ -5,19 +5,19 @@
 
 <img align="right" alt="coding" width="300" src="Images/CodingAtNight.png"></img>
 
-- 🔭 I’m currently working on **YamiPR, my Minecraft server.** (More updates to be expected)
+- 🔭 I’m currently working on **a small IoT prototype** (More updates to be expected)
 
-- 🌱 I’m currently learning **ruby, AI development, and Responsive Web Design**
+- 🌱 I’m currently learning **AI development, Rust, Flask, React**
 
-- 👯 I’m looking to collaborate on [BetterDiscord (Discord Mods - Themes)](https://github.com/LudwigBooysen/BetterDiscord)
+- 👯 I’m looking to collaborate on [ImgEdit](https://github.com/LudwigBooysen/ImgEdit)
 
-- 🤝 I’m looking for help with [MinecraftSkript (Minecraft Plugins)](https://github.com/LudwigBooysen/MinecraftSkript)
+- 🤝 I’m looking for help with [BetterDiscord](https://github.com/LudwigBooysen/BetterDiscord)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LudwigBooysen](https://github.com/LudwigBooysen)
 
 - 📝 I regularly write articles on [https://ludwigbooysen.github.io/index.html](https://ludwigbooysen.github.io/index.html)
 
-- 💬 Ask me about **html, js, css, minecraft coding, unity dev (C#), python (ethical hacking) or arduino (robotics coding)**
+- 💬 Ask me about **html, js, css, minecraft coding, unity dev (C#), python (ethical hacking) or arduino (robotics programming)**
 
 <img align="right" alt="coding" width="300" src="Images/MobileDev.png"></img>
 
@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I learned coding since the age of 12**
 
-- 🎵 I also learned how to write and produce songs / beats (FL Studio 20🥭) (Feel free to check out my YT channel 📹)
+- 🎵 I also learned how to write and produce music (FL Studio 20🥭) (Feel free to check out my YT channel too📹)
 
 - 📸 As a hobby I love to take quality (HD) photos of beutiful scenes and moments (Linked / showed on my Instagram 📷 and website 📃)
 
